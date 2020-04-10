@@ -1,7 +1,7 @@
 # hangman2020 by sugaremma
 
 
-A hangman game created for fun and for the love of Python and Pygame
+A hangman game created for fun and for the love of # Python and Pygame
 
 You can freely clone or download this project and do your updates on it
  
